@@ -1,4 +1,5 @@
-MICRO-PRPOJECT-STUDENT-COMPLAINT-TRACKER-SYSTEM-
+MICRO-PRPOJECT-STUDENT-COMPLAINT-TRACKER-SYSTEM
+
 The Student Complaint Tracker System is a web-based application designed to help students submit complaints and track their status in a simple and transparent way. The system provides separate dashboards for Students, Faculty, and Admin, ensuring role-based access and smooth complaint handling.
 
 Students can submit complaints related to academic or campus issues, view their complaint status, and update their profiles. Faculty members can view assigned complaints, update progress, and communicate updates. Admin users manage the complete complaint lifecycle by allocating complaints, monitoring progress, and generating reports.
@@ -9,14 +10,14 @@ This project is built completely on the frontend without a backend or database. 
 
 Tools & Technologies Used
 
-React.js – Builds the user interface using reusable components
-React Router – Handles navigation between role-based dashboards
-Tailwind CSS – Provides responsive and clean UI styling
-React Context API – Manages global state and real-time updates
-JSON & Local State – Stores complaint and user data on the frontend
-Chart.js / Recharts – Displays complaint statistics using charts
-jsPDF / html2pdf.js – Exports reports in PDF and CSV formats
-Node.js & npm – Manages project dependencies
-Visual Studio Code – Used for development and debugging
-Bolt.ai – Hosts and deploys the application
-Chrome, Edge, Firefox – Used for cross-browser testing
+  React.js – Builds the user interface using reusable components
+  React Router – Handles navigation between role-based dashboards
+  Tailwind CSS – Provides responsive and clean UI styling
+  React Context API – Manages global state and real-time updates
+  JSON & Local State – Stores complaint and user data on the frontend
+  Chart.js / Recharts – Displays complaint statistics using charts
+  jsPDF / html2pdf.js – Exports reports in PDF and CSV formats
+  Node.js & npm – Manages project dependencies
+  Visual Studio Code – Used for development and debugging
+  Bolt.ai – Hosts and deploys the application
+  Chrome, Edge, Firefox – Used for cross-browser testing
