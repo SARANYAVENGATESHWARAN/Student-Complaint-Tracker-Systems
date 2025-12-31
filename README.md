@@ -10,14 +10,14 @@ This project is built completely on the frontend without a backend or database. 
 
 Tools & Technologies Used
 
-  React.js – Builds the user interface using reusable components
-  React Router – Handles navigation between role-based dashboards
-  Tailwind CSS – Provides responsive and clean UI styling
-  React Context API – Manages global state and real-time updates
-  JSON & Local State – Stores complaint and user data on the frontend
-  Chart.js / Recharts – Displays complaint statistics using charts
-  jsPDF / html2pdf.js – Exports reports in PDF and CSV formats
-  Node.js & npm – Manages project dependencies
-  Visual Studio Code – Used for development and debugging
-  Bolt.ai – Hosts and deploys the application
-  Chrome, Edge, Firefox – Used for cross-browser testing
+    React.js – Builds the user interface using reusable components
+    React Router – Handles navigation between role-based dashboards
+    Tailwind CSS – Provides responsive and clean UI styling
+    React Context API – Manages global state and real-time updates
+    JSON & Local State – Stores complaint and user data on the frontend
+    Chart.js / Recharts – Displays complaint statistics using charts
+    jsPDF / html2pdf.js – Exports reports in PDF and CSV formats
+    Node.js & npm – Manages project dependencies
+    Visual Studio Code – Used for development and debugging
+    Bolt.ai – Hosts and deploys the application
+    Chrome, Edge, Firefox – Used for cross-browser testing
